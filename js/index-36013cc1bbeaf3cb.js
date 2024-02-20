@@ -1159,7 +1159,7 @@ function USFlag(e) {
         }),
         (0, l.jsx)("span", {
           className: "text-center text-base mb-4",
-          children: "\xa9 Entropic Software, 2023 - Current",
+          children: "\xa9 test 1",
         }),
       ],
     }),
