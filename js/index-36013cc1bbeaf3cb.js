@@ -990,7 +990,7 @@ className:t,children:(0,l.jsx)("path",{fill:"currentColor",d:"M116 3H12a8.91 8.9
                   ),
                   ref: E,
                   children: (0, l.jsx)("img", {
-                    src: "/images/cubes.png",
+                    src: "images/cubes.png",
                     className: "w-full scale-150",
                   }),
                 }),
