@@ -1159,7 +1159,7 @@ function USFlag(e) {
         }),
         (0, l.jsx)("span", {
           className: "text-center text-base mb-4",
-          children: "\xa9 test 1",
+          children: "\xa9 logo",
         }),
       ],
     }),
