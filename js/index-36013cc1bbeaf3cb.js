@@ -263,7 +263,7 @@ function SQLLogo(e){let{active:t}=e;return (0, l.jsx)("svg", {
   })
 );}var r=s(6477),d=s.n(r);function Button(e){let{children:t=String,type:s,submit:o,onClick:n,className:i,href:c}=e;return c?(0,l.jsx)("a",{href:c,children:(0,l.jsx)("button",{type:o?"submit":"button",className:"".concat(d().button," ").concat(d()[s]," max-w-[12rem] ").concat(i||""),onClick:n,children:(0,l.jsx)("span",{"data-text":t,children:t})})}):(0,l.jsx)("button",{type:o?"submit":"button",className:"".concat(d().button," ").concat(d()[s]," max-w-[12rem] ").concat(i||""),onClick:n,children:(0,l.jsx)("span",{"data-text":t,children:t})})}var h=s(4395),m=s.n(h),u=s(6955),x=s.n(u);function Header(e){let{type:t,children:s=String,followup:o=String,mt:n=Boolean,id:i}=e;return s=s.toUpperCase(),(0,l.jsxs)("div",{id:i||"",className:"".concat(x()["header-item"]," ").concat(m().className),children:["h1-large"===t&&(0,l.jsx)(l.Fragment,{children:(0,l.jsxs)("h1",{className:"text-6xl",children:[s," ",(0,l.jsx)("span",{className:x()["header-followup"],children:o.toUpperCase()})]})}),"h1"===t&&(0,l.jsx)("h1",{children:s}),"h2"===t&&(0,l.jsxs)(l.Fragment,{children:[(0,l.jsx)("h2",{className:!1==n&&"mt-0",children:s}),(0,l.jsx)("div",{className:x().header_item_underline})]}),"h3"===t&&(0,l.jsx)("h3",{children:s}),"h4"===t&&(0,l.jsx)("h4",{children:s}),"h5"===t&&(0,l.jsx)("h5",{children:s}),"h6"===t&&(0,l.jsx)("h6",{children:s})]})}var p=s(7174);function BentoCarousel(e){let{onClick:t,onClose:s,disableSwitching:o}=e,[n,i]=(0,a.useState)([]),[c,r]=(0,a.useState)(null),[d,h]=(0,a.useState)(!1),[m,u]=(0,a.useState)(!1),x=(0,a.useRef)(null);return(0,a.useEffect)(()=>{i([
   {
-    img: "/images/valtracker-logo.webp",
+    img: "images/valtracker-logo.webp",
     name: "Skin Cancer Classification",
     content: (0, l.jsxs)("p", {
       children: [
@@ -290,7 +290,7 @@ function SQLLogo(e){let{active:t}=e;return (0, l.jsx)("svg", {
     }),
   },
   {
-    img: "/images/valtracker-logo.webp",
+    img: "images/valtracker-logo.webp",
     name: "XTTS and RVC Pipeline",
     content: (0, l.jsxs)("p", {
       children: [
@@ -313,7 +313,7 @@ function SQLLogo(e){let{active:t}=e;return (0, l.jsx)("svg", {
     }),
   },
   {
-    img: "/images/valtracker-logo.webp",
+    img: "images/valtracker-logo.webp",
     name: "Globel Game Sales Dashboard",
     content: (0, l.jsxs)("p", {
       children: [
