@@ -1161,7 +1161,7 @@ className:t,children:(0,l.jsx)("path",{fill:"currentColor",d:"M116 3H12a8.91 8.9
         }),
         (0, l.jsx)("span", {
           className: "text-center text-base mb-4",
-          children: "\xa9 logo",
+          children: "\xa9 Team D-Sync",
         }),
       ],
     }),
