@@ -77,22 +77,23 @@ function SQLLogo(e){let{active:t}=e;return (0, l.jsx)("svg", {
   [u, x] = (0, a.useState)(!1),
   [p, f] = (0, a.useState)(!1),
   j = {
+    // TO FIX ANIMATION OF BOXS
     javascript: {
       name: "JavaScript",
       icon: (0, l.jsx)(JavaScriptLogo, {}),
-      classes: "highlightLeft highlightTop",
+      classes: "highlightCenter highlightTop", 
       stats: ["<1", "4+", "1"],
     },
     html_css: {
       name: "HTML/CSS",
       icon: (0, l.jsx)(HTMLLogo, {}),
-      classes: "highlightCenter highlightTop",
+      classes: "highlightRight highlightTop",
       stats: ["<1", "2", "1"],
     },
     rust: {
       name: "Python",
       icon: (0, l.jsx)(RustLangLogo, {}),
-      classes: "highlightRight highlightTop",
+      classes: "highlightLeft highlightTop",
       stats: ["2+", "20+", "1"],
     },
     php: {
@@ -896,11 +897,11 @@ className:t,children:(0,l.jsx)("path",{fill:"currentColor",d:"M116 3H12a8.91 8.9
                     .concat(!0 == F && b),
                   ref: V,
                   children: [
-                    { name: "rust", isVisible: B },
+                    { name: "rust", isVisible: B }, //python
                     { name: "javascript", isVisible: T },
                     { name: "html_css", isVisible: _ },
-                    { name: "php", isVisible: O },
-                    { name: "nextjs", isVisible: I },
+                    { name: "php", isVisible: O },//aiml
+                    { name: "nextjs", isVisible: I },//dv
                     { name: "sql", isVisible: A },
                   ].map((e, t) =>
                     (0, l.jsx)(
