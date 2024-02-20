@@ -715,20 +715,20 @@ className:t,children:(0,l.jsx)("path",{fill:"currentColor",d:"M116 3H12a8.91 8.9
             "https://letstinkercod.dev" === o ? "UDAY" : "Uday",
             "https://letstinkercod.dev" === o
               ? "UDAY Developer Portfolio"
-              : "Louis Escher Developer Portfolio",
+              : "Uday Jawheri Developer Portfolio",
             "https://letstinkercod.dev" === o
               ? "UDAY Web Developer"
-              : "Louis Escher Web Developer",
+              : "Uday Jawheri Web Developer",
             "https://letstinkercod.dev" === o
               ? "UDAY Full-Stack Web Developer"
-              : "Louis Escher Full-Stack Web Developer",
+              : "Uday Jawheri Full-Stack Web Developer",
             "https://letstinkercod.dev" === o
               ? "UDAY Web Development Services"
-              : "Louis Escher Web Development Services",
+              : "Uday Jawheri Web Development Services",
             "Full-Stack Web Developer",
             "Web Development Services",
-            "Louis Web Projects",
-            "Louis Coding Portfolio",
+            "Uday Web Projects",
+            "Uday Coding Portfolio",
             "Responsive Web Design",
             "Front-end Development",
             "Back-end Development",
@@ -750,7 +750,7 @@ className:t,children:(0,l.jsx)("path",{fill:"currentColor",d:"M116 3H12a8.91 8.9
             "Creative Web Solutions",
             "User-Friendly Websites",
             "Modern Web Technologies",
-            "Louis Escher Contact Information",
+            "Uday Jawheri Contact Information",
           ],
         },
       ],
@@ -759,10 +759,10 @@ className:t,children:(0,l.jsx)("path",{fill:"currentColor",d:"M116 3H12a8.91 8.9
 });}var F=!0;function Home(e){let{domain:t,name:s}=e,[o,i]=(0,a.useState)(!1),[c,r]=(0,a.useState)(!1),[d,h]=(0,a.useState)(!1),[m,u]=(0,a.useState)(!1),[x,p]=(0,a.useState)(!1),[f,j]=(0,a.useState)(null),[v,g]=(0,a.useState)(!1),[F,w]=(0,a.useState)(!1),[b,N]=(0,a.useState)(""),S=(0,a.useRef)(null),y=useShowOnScroll(S,.5,0),L=(0,a.useRef)(null),C=useShowOnScroll(L,.5,350,c,!0),k=(0,a.useRef)(null),z=useShowOnScroll(k,1,700),M=useShowOnScroll(k,.75,800),H=useShowOnScroll(k,.75,900),V=(0,a.useRef)(null),B=useShowOnScroll(V,.75,0,o),T=useShowOnScroll(V,.75,100,o),_=useShowOnScroll(V,.75,200,o),O=useShowOnScroll(V,.75,300,o),I=useShowOnScroll(V,.75,400,o),A=useShowOnScroll(V,.75,500,o),E=(0,a.useRef)(null),D=useShowOnScroll(E,.5,0),W=(0,a.useRef)(null),R=useShowOnScroll(W,.75,0),P=useShowOnScroll(W,.75,200),G=useShowOnScroll(W,.75,400),J=useShowOnScroll(W,.75,600),handleBentoGridCardClick=(e,t)=>{j(e),N(t),g(!0),setTimeout(()=>{w(!0)},300),setTimeout(()=>{h(!0)},600)},handleBentoCardRevert=()=>{w(!1),N(""),h(!1),setTimeout(()=>{g(!1),j("")},300)};return (0, l.jsxs)(l.Fragment, {
   children: [
     (0, l.jsx)(SeoHandler, {
-      title: "louisescher.dev" === t ? "louisescher.dev" : "letstinkercod.dev",
+      title: "udayjawheri.dev" === t ? "udayjawheri.dev" : "letstinkercod.dev",
       description:
-        "louisescher.dev" === t
-          ? "Hello world. I'm Louis, a ".concat(
+        "udayjawheri.dev" === t
+          ? "Hello world. I'm Uday, a ".concat(
               getCurrentAge(),
               " year old developer from India."
             )
@@ -771,8 +771,8 @@ className:t,children:(0,l.jsx)("path",{fill:"currentColor",d:"M116 3H12a8.91 8.9
               " developer from India."
             ),
       url:
-        "louisescher.dev" === t
-          ? "https://louisescher.dev"
+        "udayjawheri.dev" === t
+          ? "https://udayjawheri.dev"
           : "https://letstinkercod.dev",
       image: "/icon.png",
     }),
@@ -1039,7 +1039,7 @@ className:t,children:(0,l.jsx)("path",{fill:"currentColor",d:"M116 3H12a8.91 8.9
                           }),
                         }),
                       }),
-                      "louisescher.dev" === t &&
+                      "udayjawheri.dev" === t &&
                         (0, l.jsx)("a", {
                           href: "https://www.linkedin.com/in/uday-jawheri/",
                           className: "diamond-container",
