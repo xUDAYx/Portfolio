@@ -29,7 +29,7 @@
               (0, t.jsx)("div", {
                 id: "noise",
                 style: {
-                  backgroundImage: "url(/images/bg_noise.webp)",
+                  backgroundImage: "url(images/bg_noise.webp)",
                   backgroundRepeat: "repeat",
                   mixBlendMode: "overlay",
                   opacity: "0.25",
