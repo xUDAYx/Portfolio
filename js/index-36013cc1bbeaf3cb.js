@@ -1312,6 +1312,17 @@
                               href: "#contact",
                               children: "Contact",
                             }),
+                            (0, l.jsx)(Button, {
+                              type: "sub",
+                              target: "_blank",
+                              rel: "noopener noreferrer",
+                              onClick: () => {
+                                window.open(
+                                  "https://drive.google.com/file/d/1vD3EvWtIwgzElWIcbGB3hOee4NyOB00n/view?usp=sharing"
+                                );
+                              },
+                              children: "Resume",
+                            }),
                           ],
                         }),
                       ],
